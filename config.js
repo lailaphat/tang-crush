@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'chúc m sinh nhật vui vẻ nhaa!',
+    introDesc: `sory vì làm trễ nó sai mấy lần sầu vc`,
+    btnIntro: 'ò',
+    title: 'mong mỳ hiền hơn bớt cọc với bùn nhaa :< híc :(((',
+    desc: 'nhaa hiểu cho t nha má nhìu lúc cx bận á :(( ',
+    btnYes: 'uukii',
+    btnNo: 'đéo đéo :)))',
+    question:'ta gửi tăng người vài lời thơ , hi sinh khắc cốt ắt có nhờ , chơi chung với t xin hãy nhớ , chân thành là đc đừng chơi dơ',
+    btnReply: 'gửi cho t',
+    reply: 'uuukiii ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ',
+    mess: 'biết điều á :)) mơn ',
+    messDesc: 'chúc m càng lớn càng hiểu t chứ nhìu khi t cx bận lắm amen mơn nhìu.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
